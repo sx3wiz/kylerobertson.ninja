@@ -1,7 +1,7 @@
 # Site settings
-title: slim
-baseurl: "/slim"
-url: "http://syaning.com"
+title: Kyle Robertson
+baseurl: ""
+url: "http://localhost:4000"
 
 # Build settings
 kramdown:
